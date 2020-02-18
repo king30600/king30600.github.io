@@ -241,6 +241,27 @@ X岭南戏曲,http://183.238.77.9:9090/live/lingnanxiqu_1500.m3u8
 陕西 Ⅰ 西安影视台,http://stream2.xiancity.cn/xatv4/sd/live.m3u8
 陕西 Ⅰ 西安丝路台,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 
+
+亲子卡通,#genre#\
+金鹰卡通,http://39.135.34.8:18890/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034345#http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000031.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/42613591.smil/index.m3u8?fmt=ts2hls
+嘉佳卡通,http://39.135.34.6:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039139#http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000066.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/59463357.smil/index.m3u8?fmt=ts2hls
+哈哈卡通,http://39.135.34.19:18890/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033514
+炫动卡通,http://39.135.34.137:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032440
+优漫卡通,http://39.135.34.23:18890/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031764#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/42613464.smil/index.m3u8?fmt=ts2hls
+卡酷少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000067.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smil/index.m3u8?fmt=ts2hls
+少儿动漫HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/42613922.smil/index.m3u8?fmt=ts2hls
+动漫秀场,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000118.m3u8
+Disney Channel迪士尼卡通(國語),mitv://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
+小马动画,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
+虎牙卡通,https://aldirect.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1_1200.m3u8
+国产动画,http://112.17.40.145/PLTV/88888888/224/3221226178/index.m3u8
+迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#vjms://121.14.222.75:8500:3502/live/cid=361#vjms://23.237.33.155:8500:3502/live/cid=361
+CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
+东森幼幼,vjms://121.14.222.75:8500:3502/live/cid=344#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
+BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
+靖天卡通,http://61.58.60.230:9319/live/207.m3u8
+
 港台娱乐,#genre#
 TVB J2-,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 TVB明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts#vjms://23.237.33.155:8500:3502/live/cid=367
@@ -426,26 +447,6 @@ DOXTVHD,http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB
 飞侠小白龙,https://mrw.so/5kK4fU?http://dsjtv.com/20200205.flv
 种鬼•未删减,https://mrw.so/4uaPQB?http://dsjtv.com/20200205.flv
 香港第一凶宅,https://mrw.so/4QJsQO?http://dsjtv.com/20200205.flv
-
-亲子卡通,#genre#\
-金鹰卡通,http://39.135.34.8:18890/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034345#http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000031.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362/42613591.smil/index.m3u8?fmt=ts2hls
-嘉佳卡通,http://39.135.34.6:18890/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039139#http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000066.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593/59463357.smil/index.m3u8?fmt=ts2hls
-哈哈卡通,http://39.135.34.19:18890/000000001000/1000000002000000172/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA033514
-炫动卡通,http://39.135.34.137:18890/000000001000/7589856436881630561/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032440
-优漫卡通,http://39.135.34.23:18890/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031764#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378/42613464.smil/index.m3u8?fmt=ts2hls
-卡酷少儿,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000067.m3u8#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375/42613213.smil/index.m3u8?fmt=ts2hls
-少儿动漫HD,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387/42613922.smil/index.m3u8?fmt=ts2hls
-动漫秀场,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&=&programid=4200000118.m3u8
-Disney Channel迪士尼卡通(國語),mitv://51.79.41.138:18912/5b1409f30004f6ec17d479cd524c4642.ts
-小马动画,http://hls-ott-zhibo.wasu.tv/live/113/index.m3u8
-虎牙卡通,https://aldirect.hls.huya.com/huyalive/98282154-98282154-422118637210435584-3465852224-10057-A-0-1_1200.m3u8
-国产动画,http://112.17.40.145/PLTV/88888888/224/3221226178/index.m3u8
-迪斯尼,vjms://58.215.133.185:8500:3502/live/cid=361#vjms://121.14.222.75:8500:3502/live/cid=361#vjms://23.237.33.155:8500:3502/live/cid=361
-CN卡通,vjms://121.14.222.75:8500:3502/live/cid=422#http://pili-live-hdl.qhmywl.com/dsdtv/c865782e4a131efe17651165835ca37e.flv#p8p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts#vjms://23.237.33.155:8500:3502/live/cid=422
-东森幼幼,vjms://121.14.222.75:8500:3502/live/cid=344#p8p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts#vjms://23.237.33.155:8500:3502/live/cid=344
-BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-靖洋卡通,http://61.58.60.230:9319/live/206.m3u8
-靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 
 NewTV,#genre#
 Newtv-动作电影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
